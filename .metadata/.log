@@ -338,3 +338,34 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-04-01 21:30:15.687
 !MESSAGE Installedjava
+!SESSION 2016-04-01 21:44:54.828 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -product org.eclipse.epp.package.cpp.product -keyring /Users/Montano/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.cpp.product -data /Users/Montano/GitHub/TestRobot/ -product org.eclipse.epp.package.cpp.product -keyring /Users/Montano/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-04-01 21:45:05.806
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-04-01 21:45:16.669
+!MESSAGE Installing tools if necessary
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-04-01 21:45:16.671
+!MESSAGE Installedtools
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-04-01 21:45:16.672
+!MESSAGE Installing cpp if necessary
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-04-01 21:45:16.679
+!MESSAGE Installedcpp
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-04-01 21:45:16.688
+!MESSAGE Installing java if necessary
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-04-01 21:45:16.689
+!MESSAGE Installedjava
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-04-01 21:46:57.050
+!MESSAGE Indexed 'RobotTest' (6 sources, 399 headers) in 41.8 sec: 47,267 declarations; 68,614 references; 0 unresolved inclusions; 16 syntax errors; 5 unresolved names (0.0043%)
